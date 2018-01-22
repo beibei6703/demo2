@@ -48,6 +48,6 @@ function diff(start,end){
 }
 
 //动态创建元素
-function createEle(ele){
+function createEle( ele ){
 	return document.createElement(ele);
 }
